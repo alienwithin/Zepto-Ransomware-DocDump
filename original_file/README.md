@@ -1,3 +1,7 @@
+Forked From : 
+
+https://github.com/JohnTroony/Zepto-sample
+
 # Zepto-sample
 A Sample of Zepto Ransomware
 
