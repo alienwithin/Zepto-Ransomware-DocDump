@@ -1,5 +1,5 @@
-# Zepto-Ransomware-DocDump
-This is a dump of the sample shared by John Troony 
+# Zepto Ransomware Document Dump
+This is a dump of the sample shared by John Troony i.e. the .docm file sent via email to victims. It is a downloader for the actual ransomware
 
 https://github.com/JohnTroony/Zepto-sample
 
